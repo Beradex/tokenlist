@@ -1,8 +1,8 @@
 {
-  "name": "diffusion-tokenlist",
+  "name": "beradex-tokenlist",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "KeKs0r <marc.hoeffl@laserfocus.io>",
+  "author": "tutankhamun",
   "license": "MIT",
   "devDependencies": {
     "@uniswap/token-lists": "^1.0.0-beta.28",
