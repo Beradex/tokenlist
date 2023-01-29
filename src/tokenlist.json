@@ -11,9 +11,9 @@
     {
       "name": "Wrapped Bera",
       "symbol": "WBERA",
-      "chainId": 9000,
+      "chainId": 421613,
       "decimals": 18,
-      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "address": "0x7F5bc2250ea57d8ca932898297b1FF9aE1a04999",
       "logoURI": "https://www.#.com"
     }
   ]
