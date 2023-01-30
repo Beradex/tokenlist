@@ -1,9 +1,9 @@
 {
   "name": "Beradex List",
-  "timestamp": "2023-18-11T00:00:00.000Z",
+  "timestamp": "2023-31-11T00:00:00.000Z",
   "logoURI": "https://app.beradex.xyz/favicon.png",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
