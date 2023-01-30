@@ -15,6 +15,30 @@
       "decimals": 18,
       "address": "0x7F5bc2250ea57d8ca932898297b1FF9aE1a04999",
       "logoURI": "https://www.#.com"
+    },
+    {
+      "name": "Beradex Token",
+      "symbol": "BRDX",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0xc53D9222FB755b31eDaaFa41a1f9d510DDb4D1EC",
+      "logoURI": "https://www.#.com"
+    },
+    {
+      "name": "xBRDX",
+      "symbol": "XBRDX",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0x08caBAd8A0eCd6e69b518bf6A5B1035313B08B2B",
+      "logoURI": "https://www.#.com"
+    },
+    {
+      "name": "Test USDC",
+      "symbol": "tUSDC",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0x3585fF983766Efa4Cfc8dE3F802d9ED82B636F91",
+      "logoURI": "https://www.#.com"
     }
   ]
 }
