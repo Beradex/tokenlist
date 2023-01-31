@@ -22,7 +22,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0xc53D9222FB755b31eDaaFa41a1f9d510DDb4D1EC",
-      "logoURI": "https://www.#.com"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/brdxlogo.png"
     },
     {
       "name": "xBRDX",
@@ -38,7 +38,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0x3585fF983766Efa4Cfc8dE3F802d9ED82B636F91",
-      "logoURI": "https://www.#.com"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/usdclogo.svg"
     }
   ]
 }
