@@ -14,7 +14,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0x7F5bc2250ea57d8ca932898297b1FF9aE1a04999",
-      "logoURI": "https://www.#.com"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/wbera.png"
     },
     {
       "name": "Beradex Token",
@@ -30,7 +30,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0xd7b7b839837B6a48eF504E67E75654d28498C1FC",
-      "logoURI": "https://www.#.com"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/wbrdx.png"
     },
     {
       "name": "Test USDC",
