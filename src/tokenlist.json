@@ -21,7 +21,7 @@
       "symbol": "BRDX",
       "chainId": 421613,
       "decimals": 18,
-      "address": "0xc53D9222FB755b31eDaaFa41a1f9d510DDb4D1EC",
+      "address": "0xdC80Bb8EF29434ca839224f6967a8E0Da148A46D",
       "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/brdxlogo.png"
     },
     {
@@ -29,7 +29,7 @@
       "symbol": "XBRDX",
       "chainId": 421613,
       "decimals": 18,
-      "address": "0x08caBAd8A0eCd6e69b518bf6A5B1035313B08B2B",
+      "address": "0xd7b7b839837B6a48eF504E67E75654d28498C1FC",
       "logoURI": "https://www.#.com"
     },
     {
@@ -37,7 +37,7 @@
       "symbol": "tUSDC",
       "chainId": 421613,
       "decimals": 18,
-      "address": "0x3585fF983766Efa4Cfc8dE3F802d9ED82B636F91",
+      "address": "0x82747A42b6C2e4551CF973c1321727462B0DB619",
       "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/usdclogo.svg"
     }
   ]
