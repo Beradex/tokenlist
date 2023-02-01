@@ -3,7 +3,7 @@
   "timestamp": "2023-01-01T00:00:00.000Z",
   "logoURI": "https://app.beradex.xyz/favicon.png",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 1,
     "patch": 0
   },
@@ -21,7 +21,7 @@
       "symbol": "BRDX",
       "chainId": 421613,
       "decimals": 18,
-      "address": "0xdC80Bb8EF29434ca839224f6967a8E0Da148A46D",
+      "address": "0x81b4E14f66BF6670a864d978CEA870f408440C22",
       "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/brdxlogo.png"
     },
     {
