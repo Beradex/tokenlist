@@ -5,7 +5,7 @@
   "version": {
     "major": 5,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -46,7 +46,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0xbCB19b6BE5Df8581275F27A9622066a5C35aDC84",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/-.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/honey-logo.png"
     }
   ]
 }
