@@ -3,7 +3,7 @@
   "timestamp": "2023-01-01T00:00:00.000Z",
   "logoURI": "https://app.beradex.xyz/favicon.png",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 2,
     "patch": 0
   },
@@ -39,14 +39,6 @@
       "decimals": 18,
       "address": "0x82747A42b6C2e4551CF973c1321727462B0DB619",
       "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/tusdc.png"
-    },
-    {
-      "name": "USDC BLP",
-      "symbol": "USDC BLP",
-      "chainId": 421613,
-      "decimals": 18,
-      "address": "0x45e8604Beb4191189f8914Db07a22f4AacAfF7Af",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/-.png"
     },
     {
       "name": "HONEY",
