@@ -46,7 +46,15 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0x45e8604Beb4191189f8914Db07a22f4AacAfF7Af",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/tusdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/-.png"
+    },
+    {
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0xbCB19b6BE5Df8581275F27A9622066a5C35aDC84",
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/-.png"
     }
   ]
 }
