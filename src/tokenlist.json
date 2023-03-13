@@ -4,7 +4,7 @@
   "logoURI": "https://app.beradex.xyz/favicon.png",
   "version": {
     "major": 5,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   },
   "tokens": [
@@ -14,7 +14,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0x7F5bc2250ea57d8ca932898297b1FF9aE1a04999",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/wbera.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0x7F5bc2250ea57d8ca932898297b1FF9aE1a04999/logo.png"
     },
     {
       "name": "Beradex Token",
@@ -22,7 +22,7 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0xb292AF88cd6707508519399A8e0634751C395D58",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/brdxlogo.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0xb292AF88cd6707508519399A8e0634751C395D58/logo.png"
     },
     {
       "name": "xBRDX",
@@ -30,15 +30,15 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0x81b4E14f66BF6670a864d978CEA870f408440C22",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/wbrdx.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0x81b4E14f66BF6670a864d978CEA870f408440C22/logo.png"
     },
     {
       "name": "Test USDC",
-      "symbol": "tUSDC",
+      "symbol": "USDC",
       "chainId": 421613,
       "decimals": 18,
       "address": "0x82747A42b6C2e4551CF973c1321727462B0DB619",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/tusdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0x82747A42b6C2e4551CF973c1321727462B0DB619/logo.png"
     },
     {
       "name": "HONEY",
@@ -46,7 +46,23 @@
       "chainId": 421613,
       "decimals": 18,
       "address": "0xbCB19b6BE5Df8581275F27A9622066a5C35aDC84",
-      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/honey-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0xbCB19b6BE5Df8581275F27A9622066a5C35aDC84/logo.png"
+    },
+    {
+      "name": "Test USDT",
+      "symbol": "USDT",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0x715661d649a9c921B984Cc538ecF4536aFeea196",
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0x715661d649a9c921B984Cc538ecF4536aFeea196/logo.png"
+    },
+    {
+      "name": "Test DAI",
+      "symbol": "DAI",
+      "chainId": 421613,
+      "decimals": 18,
+      "address": "0x02668f5a60D637D21e39689B68B675ed4A7B696d",
+      "logoURI": "https://raw.githubusercontent.com/Beradex/tokenlist/main/logos/0x02668f5a60D637D21e39689B68B675ed4A7B696d/logo.png"
     }
   ]
 }
